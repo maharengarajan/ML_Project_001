@@ -5,7 +5,7 @@ notebook
 scikit-learn
 catboost
 xgboost
-
+dill
 
 
 #-e .
